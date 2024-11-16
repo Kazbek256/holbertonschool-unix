@@ -1,2 +1,2 @@
 #!/bin/bash
-nano cd-3-back
+cd -3-back 2>/dev/null
